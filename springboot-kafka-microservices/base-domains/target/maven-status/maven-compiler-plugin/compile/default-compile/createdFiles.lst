@@ -1,0 +1,3 @@
+net\javaguides\basedomains\BaseDomainsApplication.class
+net\javaguides\basedomains\dto\Order.class
+net\javaguides\basedomains\dto\OrderEvent.class

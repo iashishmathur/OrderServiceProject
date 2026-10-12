@@ -1,0 +1,5 @@
+net\javaguides\orderservice\controller\OrderController.class
+net\javaguides\orderservice\OrderServiceApplication.class
+net\javaguides\orderservice\config\KafkaTopicConfig.class
+net\javaguides\orderservice\kafka\OrderProducer.class
+net\javaguides\orderservice\exception\GlobalExceptionHandler.class
